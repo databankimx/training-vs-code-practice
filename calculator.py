@@ -1,4 +1,4 @@
-"""A small calculator used by the VS Code training course."""
+"""A small calculator for the VS Code course."""
 
 def add(a,b):
     return a+b
